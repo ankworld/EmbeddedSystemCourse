@@ -3,11 +3,11 @@ Simple play with Arduino
 
 ## Here is link to video on youtube :p
 
-[https://youtu.be/IwSXfO5D5Bc](SOS_Blinky)
-[https://youtu.be/gXdNQEmasXg](DICE_LED)
-[https://youtu.be/AG4un8MkWWA](7 Segments)
-[https://youtu.be/gQ1I1xiXtx8](Charlieplexing)
-[https://youtu.be/OfLqcdaRtZo](Pot)
-[https://youtu.be/OwlO8bjkJRw](LDR)
+[SOS_Blinky](https://youtu.be/IwSXfO5D5Bc)
+[Dice_LED](https://youtu.be/gXdNQEmasXg)
+[7-Segment](https://youtu.be/AG4un8MkWWA)
+[Charlieplexing](https://youtu.be/gQ1I1xiXtx8)
+[Pot](https://youtu.be/OfLqcdaRtZo)
+[LDR](https://youtu.be/OwlO8bjkJRw)
 
 ___
